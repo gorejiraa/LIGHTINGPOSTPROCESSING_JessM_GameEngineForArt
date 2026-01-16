@@ -146,7 +146,7 @@ MonoBehaviour:
     m_Value: 1
   gaussianStart:
     m_OverrideState: 1
-    m_Value: 7
+    m_Value: 9
   gaussianEnd:
     m_OverrideState: 1
     m_Value: 25
